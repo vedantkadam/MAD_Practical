@@ -1,1 +1,9 @@
 npm start
+
+
+Commands to run:
+npm install -g serve
+npm run-script build
+npx serve -s build
+
+Go to inspect and check under network for offline and take ss ,refresh the page and the output should still be visible after refreshing
