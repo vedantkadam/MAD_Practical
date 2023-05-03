@@ -1,6 +1,8 @@
+(For PWA webapp)
 npm start
 
 
+(For Manifest Project)
 Commands to run:
 npm install -g serve
 npm run-script build
