@@ -2,6 +2,13 @@
 
 Welcome to the MAD Practical Repository! This repository contains all the code and resources for the MAD (Mobile Application Development) practicals.
 
+<p align="center">
+  <a href="/">
+    <img src="https://github.com/vedantkadam/MAD_Practical/assets/83024561/8a658e31-066b-4e68-b3d1-3f0d2cdad710"
+         alt="csi_logo" width="800" height="500">
+  </a>
+</p>
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
